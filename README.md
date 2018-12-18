@@ -1,3 +1,2 @@
 # hello_world
-a test program
-a program to edit the test
+a test program, this program just to test function
